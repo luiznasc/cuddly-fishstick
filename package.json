@@ -1,0 +1,19 @@
+{
+  "name": "cuddly-fishstick",
+  "version": "1.0.0",
+  "description": "just a personal prototype express server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luiznasc/cuddly-fishstick.git"
+  },
+  "author": "Luiz Nascimento",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luiznasc/cuddly-fishstick/issues"
+  },
+  "homepage": "https://github.com/luiznasc/cuddly-fishstick#readme"
+}
